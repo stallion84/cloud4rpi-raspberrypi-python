@@ -10,7 +10,7 @@ import RPi.GPIO as GPIO  # pylint: disable=F0401
 
 # Put your device token here. To get the token,
 # sign up at https://cloud4rpi.io and create a device.
-DEVICE_TOKEN = '__YOUR_DEVICE_TOKEN__'
+DEVICE_TOKEN = '7cFh8q8ztKjKLdWCPAnLiDjev'
 
 # Constants
 LED_PIN = 12
